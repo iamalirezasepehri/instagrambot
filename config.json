@@ -1,0 +1,16 @@
+{
+    "username": "your_username",
+    "password": "your_password",
+    "replies": [
+        "سلام\t"
+    ],
+    "targets": [
+        "#روشنایی"
+    ],
+    "comment_texts": [
+        "لطفا از پیچ دیدن فرمایید"
+    ],
+    "daily_limit": 5,
+    "like_count": 5,
+    "comment_count": 5
+}
